@@ -14,7 +14,7 @@
     url(../fonts/Lato-Regular.woff2) format('woff2');
 }
 @font-face {
-    font-family: QuicksandB;
+    font-family: Quicksand;
     src: url(../fonts/Quicksand-Bold.woff) format('woff'),
     url(../fonts/Quicksand-Bold.woff2) format('woff2');
 }
@@ -24,7 +24,7 @@
     url(../fonts/RammettoOne-Regular.woff2) format('woff2');
 }
 @font-face {
-    font-family: RobotoR;
+    font-family: Roboto;
     src: url(../fonts/Roboto-Regular.woff) format('woff'),
     url(../fonts/Roboto-Regular.woff2) format('woff2');
 }
