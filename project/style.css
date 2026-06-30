@@ -1,6 +1,7 @@
 @import url(./fonts.css);
 @import url(./components/header.css);
 @import url(./components/banerHome.css);
+@import url(./components/newproduct.css);
 
 
 ul,ol,h1,h2,h3,h4,h5,h6,p,body{

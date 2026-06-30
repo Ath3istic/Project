@@ -1,0 +1,35 @@
+.product{
+    background-color: #eeebec;
+    height: 260px;
+    position:relative
+}
+.cont{
+    position: relative;
+}
+.text{
+    width: 600px;
+}
+.product img{
+    float:right;
+    margin-top:83px;
+}
+.product .cont h3{
+    color:#7a6666;
+    font-family: LatoR;
+    font-weight: 400;
+    padding-top:50px
+}
+.product .cont h2{
+    color: #cb3362;
+    font-size: 32px;
+    font-family: LatoR;
+    font-weight: 400;
+    margin-top:20px;
+}
+.product .cont p{
+    color: #7a6666;
+    font-family: LatoR;
+    margin-top:25px;
+    line-height:25px;
+    font-size: 14px;
+}
