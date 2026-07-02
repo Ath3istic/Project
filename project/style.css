@@ -4,6 +4,7 @@
 @import url(./components/newproduct.css);
 @import url(./components/panel.css);
 @import url(./components/footer.css);
+@import url(./components/AboutPage.css);
 
 
 ul,ol,h1,h2,h3,h4,h5,h6,p,body{
@@ -22,7 +23,7 @@ body{
 
 .container-fluid{
     width: 100%;
-
+    clear:both;
 }
 
 .container{
