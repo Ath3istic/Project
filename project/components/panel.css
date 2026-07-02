@@ -1,0 +1,19 @@
+.panel{
+    height:160px;
+    background-color: #c8c10d;
+}
+.cont2{
+    display:flex;
+    gap:100px;
+}
+.cont2>div{
+    text-align: center;
+    margin:0 auto;
+    padding-top:48px;
+}
+.cont2>div>a{
+    text-transform: uppercase;
+    text-decoration: none;
+    color:#eeebec;
+    font-family: LatoR;
+}
