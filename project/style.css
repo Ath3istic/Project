@@ -7,6 +7,7 @@
 @import url(./components/AboutPage.css);
 @import url(./components/ProductPage.css);
 @import url(./components/BlogPage.css);
+@import url(./components/SinglePostPage.css);
 
 
 ul,ol,h1,h2,h3,h4,h5,h6,p,body{
