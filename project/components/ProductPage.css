@@ -1,3 +1,25 @@
 .top{
     display: flex;
+    margin-bottom:40px;
+}
+.top h3{
+    color:#cb3362;
+    text-align: center;
+    text-transform: uppercase;
+    font-family:LatoB;
+    font-weight: 300;
+    margin-top:10px;
+}
+.top h2{
+    color:#cb3362;
+    font-family:LatoB;
+    font-weight: 600;
+    margin-top:65px;
+    font-size:28px;
+    margin-bottom: 20px;
+}
+.top p{
+    line-height: 28px;
+    width: 250px;
+    font-family:LatoR;
 }
